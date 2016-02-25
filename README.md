@@ -1,2 +1,4 @@
 # git-project
-To demonstrate git - by Ramya
+The project folders here contains all sub branches
+
+- by Ramya
